@@ -94,5 +94,8 @@ do
 //Ejercicio 2
 
 using EspacioPersonal;
-Empleados[] arregloEmpledos = new Empleados();
+Empleados[] arregloEmpleados = new Empleados[3];
+
+
+
 
