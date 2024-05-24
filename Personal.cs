@@ -26,7 +26,9 @@ namespace EspacioPersonal
             Investigador     // 4
         }
 
-        public Empleados();
+        public Empleados(){
+            
+        }
     }
 
     
