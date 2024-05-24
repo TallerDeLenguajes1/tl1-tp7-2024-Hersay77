@@ -1,4 +1,5 @@
-﻿using EspacioCalculadora;
+﻿//Ejercicio-1
+/*using EspacioCalculadora;
 MiCalculadora MiCalculadora = new MiCalculadora(); 
 int opcion = 0;
 
@@ -86,4 +87,10 @@ do
     Console.WriteLine("Desea continuar operando? : 1 - Si");
     opcion = Convert.ToInt32(Console.ReadLine());
 } while (opcion == 1);
+*/
+
+//Ejercicio-2
+
+using EspacioPersonal;
+Empleados arregloEmpledos[3] = new Empleados();
 

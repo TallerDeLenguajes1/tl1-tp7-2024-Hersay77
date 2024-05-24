@@ -1,0 +1,15 @@
+c:\Taller1\Repositorios\tl1-tp7-2024-Hersay77\bin\Debug\net8.0\tl1-tp7-2024-Hersay77.exe
+c:\Taller1\Repositorios\tl1-tp7-2024-Hersay77\bin\Debug\net8.0\tl1-tp7-2024-Hersay77.deps.json
+c:\Taller1\Repositorios\tl1-tp7-2024-Hersay77\bin\Debug\net8.0\tl1-tp7-2024-Hersay77.runtimeconfig.json
+c:\Taller1\Repositorios\tl1-tp7-2024-Hersay77\bin\Debug\net8.0\tl1-tp7-2024-Hersay77.dll
+c:\Taller1\Repositorios\tl1-tp7-2024-Hersay77\bin\Debug\net8.0\tl1-tp7-2024-Hersay77.pdb
+c:\Taller1\Repositorios\tl1-tp7-2024-Hersay77\obj\Debug\net8.0\tl1-tp7-2024-Hersay77.GeneratedMSBuildEditorConfig.editorconfig
+c:\Taller1\Repositorios\tl1-tp7-2024-Hersay77\obj\Debug\net8.0\tl1-tp7-2024-Hersay77.AssemblyInfoInputs.cache
+c:\Taller1\Repositorios\tl1-tp7-2024-Hersay77\obj\Debug\net8.0\tl1-tp7-2024-Hersay77.AssemblyInfo.cs
+c:\Taller1\Repositorios\tl1-tp7-2024-Hersay77\obj\Debug\net8.0\tl1-tp7-2024-Hersay77.csproj.CoreCompileInputs.cache
+c:\Taller1\Repositorios\tl1-tp7-2024-Hersay77\obj\Debug\net8.0\tl1-tp7-2024-Hersay77.sourcelink.json
+c:\Taller1\Repositorios\tl1-tp7-2024-Hersay77\obj\Debug\net8.0\tl1-tp7-2024-Hersay77.dll
+c:\Taller1\Repositorios\tl1-tp7-2024-Hersay77\obj\Debug\net8.0\refint\tl1-tp7-2024-Hersay77.dll
+c:\Taller1\Repositorios\tl1-tp7-2024-Hersay77\obj\Debug\net8.0\tl1-tp7-2024-Hersay77.pdb
+c:\Taller1\Repositorios\tl1-tp7-2024-Hersay77\obj\Debug\net8.0\tl1-tp7-2024-Hersay77.genruntimeconfig.cache
+c:\Taller1\Repositorios\tl1-tp7-2024-Hersay77\obj\Debug\net8.0\ref\tl1-tp7-2024-Hersay77.dll
