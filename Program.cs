@@ -1,4 +1,6 @@
-﻿using EspacioCalculadora;
+﻿//Ejercicio-1
+
+/*using EspacioCalculadora;
 MiCalculadora MiCalculadora = new MiCalculadora(); 
 int opcion = 0;
 
@@ -87,3 +89,6 @@ do
     opcion = Convert.ToInt32(Console.ReadLine());
 } while (opcion == 1);
 
+*/
+
+//Ejercicio 2
