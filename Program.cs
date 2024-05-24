@@ -1,5 +1,6 @@
 ﻿//Ejercicio-1
-/*using EspacioCalculadora;
+/*
+using EspacioCalculadora;
 MiCalculadora MiCalculadora = new MiCalculadora(); 
 int opcion = 0;
 
@@ -89,7 +90,8 @@ do
 } while (opcion == 1);
 */
 
-//Ejercicio-2
+
+//Ejercicio 2
 
 using EspacioPersonal;
 Empleados arregloEmpledos[3] = new Empleados();
