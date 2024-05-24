@@ -6,11 +6,11 @@ namespace EspacioPersonal
 
         private string apellido;
 
-        private datetime nacimiento;
+        private DateTime nacimiento;
 
         private char estadoCivil;
 
-        private datetime ingreso;
+        private DateTime ingreso;
 
         private double sueldoBasico;
 
